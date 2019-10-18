@@ -75,6 +75,8 @@ body{
       }
       img{
         vertical-align: middle;
+        width: 155px;
+        height:55px;
       }
     }
     .nav-mobile{
@@ -280,6 +282,10 @@ body{
     .banner-img{
       float:right;
       margin-top: 80px;
+      img{
+        width: 711px;
+        height:536px;
+      }
     }
   }
 }
@@ -315,7 +321,8 @@ body{
         float:none;
         margin-top: 0px;
         img{
-          width: 100%;
+          width: 355px;
+          height:270px;
         }
 
       }
@@ -357,6 +364,9 @@ body{
       display: flex;
       .img-show{
         width: 400px;
+        img{
+          width: 100%;
+        }
       }
       .detail-show{
         padding-top: 70px;
@@ -534,6 +544,9 @@ body{
           margin:0 auto;
           .out-img{
             margin-bottom: 30px;
+            img{
+              width: 150px;
+            }
           }
           h4{
             font-size: 16px;
@@ -648,6 +661,9 @@ body{
       }
       .img-box{
         width: 120px;
+        img{
+          width: 120px;
+        }
       }
       .text-show{
         flex:1;
@@ -752,6 +768,8 @@ body{
     img{
       display: inline-block;
       position: absolute;
+      width:160px;
+      height:61px;
       top: 50%;
       left: 50%;
       -webkit-transform: translate(-50%, -50%);
@@ -966,6 +984,8 @@ body{
         height:50px;
         margin-bottom: 10px;
         width: 385px;
+        -webkit-appearance:none;
+        outline:none
       }
     }
     .sub{
@@ -985,6 +1005,7 @@ body{
     background: url("../images/download-bg.png") no-repeat;
     background-position:740px 0px;
     height: 350px;
+    background-size: 474px 350px;
     .evm-show{
       float: left;
       height:350px;
@@ -992,6 +1013,8 @@ body{
         height: 350px;
         img{
           margin-top: 75px;
+          width: 200px;
+          height:200px;
         }
       }
     }
@@ -1033,7 +1056,8 @@ body{
           width: 100px;
           margin-top: 50px;
           img{
-            width: 100%;
+            width: 100px;
+            height:100px;
             margin-top: 0px;
           }
         }
@@ -1069,6 +1093,10 @@ body{
         width: 360px;
         .logo-box{
           margin-bottom: 30px;
+          img{
+            width:242px;
+            height:72px;
+          }
         }
         .text-intro{
           p{
@@ -1134,6 +1162,10 @@ body{
         float: right;
         a{
           margin-left: 20px;
+          img{
+            width: 18px;
+            height:17px;
+          }
         }
       }
     }
@@ -1209,6 +1241,7 @@ body{
           float: right;
           a{
             margin-left: 10px;
+
           }
         }
       }
@@ -1477,6 +1510,8 @@ body{
   img{
     position:fixed;
     display: block;
+    width: 273px;
+    heigtt:243px;
     right:26px;
     bottom:30px;
   }
