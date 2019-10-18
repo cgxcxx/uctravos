@@ -1,8 +1,8 @@
 <div class="all-header header-index">
     <div class="container">
         <div class="header-logo">
-            <a href="" class="logo-white"><img src="images/header-logo.png" alt=""></a>
-            <a href="" class="logo-black"><img src="images/header-logo2.png" alt=""></a>
+            <a href="/" class="logo-white"><img src="images/header-logo.png" alt=""></a>
+            <a href="/" class="logo-black"><img src="images/header-logo2.png" alt=""></a>
         </div>
         <div class="nav-mobile">
                   <a href="javascript:void(0)"><i class="iconfont">&#xe790;</i></a>
