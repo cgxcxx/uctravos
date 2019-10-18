@@ -95,7 +95,7 @@
                                         </div>
                                     </div>
                                     <div class="more-detail">
-                                        <a href="">了解详情</a>
+                                        <a href="/out">了解详情</a>
                                     </div>
                                 </div>
                             </div>
@@ -162,7 +162,7 @@
                                         </div>
                                     </div>
                                     <div class="more-detail">
-                                        <a href="">了解详情</a>
+                                        <a href="/out">了解详情</a>
                                     </div>
                                 </div>
                             </div>

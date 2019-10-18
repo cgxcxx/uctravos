@@ -27,7 +27,7 @@
                     <div class="show-item">
                         <p>公司</p>
                         <ul>
-                            <li><a href="">发展历程</a></li>
+                            <li><a href="/about">发展历程</a></li>
                             <li><a href="">品牌文化</a></li>
                             <li><a href="">战略伙伴</a></li>
                         </ul>
@@ -55,54 +55,3 @@
         </div>
     </div>
 </div>
-<script src="js/swiper.min.js"></script>
-<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://cdn.bootcss.com/fullPage.js/2.9.4/jquery.fullpage.min.js"></script>
-<script>
-    //swiper
-    var mySwiper = new Swiper('.swiper-container', {
-        loop: true,
-        autoplay: 6000,
-        navigation: {
-            nextEl: '.swiper-button-next',
-            prevEl: '.swiper-button-prev',
-        },
-        pagination : '.swiper-pagination',
-        paginationClickable :true
-    })
-</script>
-<script>
-    //client-swiper
-    var clientSwiper = new Swiper('.client-swiper-container', {
-        loop: true,
-        autoplay: 6000,
-        pagination: {
-            el: '.swiper-pagination',
-            clickable :true,
-        }
-    })
-</script>
-<script>
-
-    $(document).ready(function(){
-        //检测卷去高度，切换菜单背景
-        scrollTop = $(document).scrollTop();
-        if(scrollTop > 0){
-            $(".all-header").removeClass("header-index");
-        }else{
-            $(".all-header").addClass("header-index");
-        }
-        $(document).scroll(function() {
-            scrollTop = $(document).scrollTop();
-            if(scrollTop > 0){
-                $(".all-header").removeClass("header-index");
-            }else{
-                $(".all-header").addClass("header-index");
-            }
-        });
-
-    });
-</script>
-<script>
-    $('.to-top').click(function(){$('html,body').animate({scrollTop: '0px'}, 800);});
-</script>
