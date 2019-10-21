@@ -25936,7 +25936,7 @@ Main components
 }
 
 @font-face {
-  font-family: 'iconfont';
+  font-family: "iconfont";
   /* project id 1465413 */
   src: url("//at.alicdn.com/t/font_1465413_wg37jrz0n4e.eot");
   src: url("//at.alicdn.com/t/font_1465413_wg37jrz0n4e.eot?#iefix") format("embedded-opentype"), url("//at.alicdn.com/t/font_1465413_wg37jrz0n4e.woff2") format("woff2"), url("//at.alicdn.com/t/font_1465413_wg37jrz0n4e.woff") format("woff"), url("//at.alicdn.com/t/font_1465413_wg37jrz0n4e.ttf") format("truetype"), url("//at.alicdn.com/t/font_1465413_wg37jrz0n4e.svg#iconfont") format("svg");
@@ -25963,7 +25963,7 @@ body {
 }
 
 .all-header.header-index {
-  background-color: #1B2433;
+  background-color: #1b2433;
 }
 
 .all-header.header-index .container .header-logo .logo-white {
@@ -26042,7 +26042,7 @@ body {
 }
 
 .all-header .container .header-nav ul li a {
-  color: #1B2434;
+  color: #1b2434;
   font-size: 18px;
   margin-right: 40px;
   line-height: 100px;
@@ -26053,7 +26053,7 @@ body {
 }
 
 .all-header .container .header-nav ul li a:hover {
-  border-bottom: 2px solid #1B2433;
+  border-bottom: 2px solid #1b2433;
   font-weight: bold;
 }
 
@@ -26063,8 +26063,8 @@ body {
 }
 
 .all-header .container .header-regist-login a {
-  border: 1px solid #1B2433;
-  color: #1B2433;
+  border: 1px solid #1b2433;
+  color: #1b2433;
   display: inline-block;
   width: 115px;
   height: 40px;
@@ -26077,8 +26077,8 @@ body {
 }
 
 .all-header .container .header-regist-login a:hover {
-  background-color: #2987FF;
-  border-color: #2987FF;
+  background-color: #2987ff;
+  border-color: #2987ff;
   color: #fff;
 }
 
@@ -26129,8 +26129,8 @@ body {
     right: 0;
     margin-top: 0;
     z-index: 9998;
-    -webkit-transition: height .5s;
-    transition: height .5s;
+    -webkit-transition: height 0.5s;
+    transition: height 0.5s;
   }
 
   .all-header .container .header-nav.open {
@@ -26192,8 +26192,8 @@ body {
   }
 
   .all-header .container .header-regist-login a:hover {
-    background-color: #2987FF;
-    border-color: #2987FF;
+    background-color: #2987ff;
+    border-color: #2987ff;
   }
 
   .all-header .container .header-regist-login a.login {
@@ -26202,7 +26202,7 @@ body {
 }
 
 .index-banner {
-  background-color: #1B2433;
+  background-color: #1b2433;
   height: 640px;
 }
 
@@ -26236,7 +26236,7 @@ body {
   text-align: center;
   font-size: 16px;
   font-weight: bold;
-  background-color: #2987FF;
+  background-color: #2987ff;
   color: #fff;
 }
 
@@ -26301,7 +26301,7 @@ body {
 .index-scenes h3 {
   font-size: 38px;
   line-height: 38px;
-  color: #2B292D;
+  color: #2b292d;
   font-weight: bold;
   margin-bottom: 35px;
   text-align: center;
@@ -26310,7 +26310,7 @@ body {
 .index-scenes .position-fix {
   font-size: 16px;
   line-height: 16px;
-  color: #2B292D;
+  color: #2b292d;
   text-align: center;
   position: absolute;
   top: 85px;
@@ -26353,7 +26353,7 @@ body {
 
 .index-scenes .index-slide .slide-box .detail-show h4 {
   font-size: 38px;
-  color: #2B292D;
+  color: #2b292d;
   line-height: 75px;
   font-weight: bold;
   text-align: left;
@@ -26389,7 +26389,7 @@ body {
 .index-scenes .index-slide .slide-box .detail-show .detail-list .box-show .box-text p {
   font-size: 16px;
   line-height: 60px;
-  color: #2B292D;
+  color: #2b292d;
 }
 
 .index-scenes .index-slide .slide-box .detail-show .more-detail a {
@@ -26398,9 +26398,9 @@ body {
   height: 40px;
   text-align: center;
   line-height: 40px;
-  border: 1px solid #1B2433;
+  border: 1px solid #1b2433;
   font-size: 16px;
-  color: #1B2433;
+  color: #1b2433;
 }
 
 @media (max-width: 767px) {
@@ -26417,7 +26417,7 @@ body {
   .index-scenes .position-fix {
     font-size: 12px;
     line-height: 16px;
-    color: #2B292D;
+    color: #2b292d;
     text-align: center;
     -webkit-transform: none;
             transform: none;
@@ -26506,7 +26506,7 @@ body {
 .index-out h3 {
   font-size: 38px;
   line-height: 38px;
-  color: #2B292D;
+  color: #2b292d;
   font-weight: bold;
   margin-top: 85px;
   margin-bottom: 30px;
@@ -26516,14 +26516,14 @@ body {
 .index-out h4 {
   font-size: 16px;
   line-height: 16px;
-  color: #2B292D;
+  color: #2b292d;
   text-align: center;
 }
 
 .index-out .line-show {
   width: 400px;
   height: 5px;
-  background-color: #1B2433;
+  background-color: #1b2433;
   margin: 0 auto;
 }
 
@@ -26540,7 +26540,7 @@ body {
 }
 
 .index-out .out-show .out-b-box .out-box:hover {
-  background: #FFFFFF;
+  background: #ffffff;
   -webkit-box-shadow: 0 13px 18px -8px rgba(0, 0, 0, 0.15), 0 11px 55px 10px rgba(0, 0, 0, 0.07);
           box-shadow: 0 13px 18px -8px rgba(0, 0, 0, 0.15), 0 11px 55px 10px rgba(0, 0, 0, 0.07);
   border-radius: 8px;
@@ -26562,7 +26562,7 @@ body {
 .index-out .out-show .out-b-box .out-box .inner-box h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #2B292D;
+  color: #2b292d;
   line-height: 16px;
   text-align: center;
   margin-bottom: 5px;
@@ -26570,7 +26570,7 @@ body {
 
 .index-out .out-show .out-b-box .out-box .inner-box p {
   font-size: 14px;
-  color: #9B9B9B;
+  color: #9b9b9b;
   line-height: 24px;
   text-align: center;
 }
@@ -26595,7 +26595,7 @@ body {
   .index-out .line-show {
     width: 200px;
     height: 2px;
-    background-color: #1B2433;
+    background-color: #1b2433;
     margin: 0 auto;
   }
 
@@ -26636,7 +26636,7 @@ body {
 
 .index-service h3 {
   font-size: 38px;
-  color: #2B292D;
+  color: #2b292d;
   letter-spacing: -0.34px;
   text-align: center;
   line-height: 38px;
@@ -26652,11 +26652,11 @@ body {
   width: 116px;
   height: 40px;
   display: block;
-  border: 1px solid #1B2433;
+  border: 1px solid #1b2433;
   text-align: center;
   line-height: 40px;
   font-size: 16px;
-  color: #1B2433;
+  color: #1b2433;
   font-weight: bold;
 }
 
@@ -26681,7 +26681,7 @@ body {
 }
 
 .index-service .service-show .service-box:hover {
-  background: #FFFFFF;
+  background: #ffffff;
   -webkit-box-shadow: 0 13px 18px -8px rgba(0, 0, 0, 0.15), 0 11px 55px 10px rgba(0, 0, 0, 0.07);
           box-shadow: 0 13px 18px -8px rgba(0, 0, 0, 0.15), 0 11px 55px 10px rgba(0, 0, 0, 0.07);
   border-radius: 8px;
@@ -26706,14 +26706,14 @@ body {
 .index-service .service-show .service-box .text-show h4 {
   font-size: 18px;
   line-height: 24px;
-  color: #2B292D;
+  color: #2b292d;
   font-weight: bold;
   margin-bottom: 10px;
 }
 
 .index-service .service-show .service-box .text-show p {
   font-size: 14px;
-  color: #2B292D;
+  color: #2b292d;
   line-height: 24px;
 }
 
@@ -26776,7 +26776,7 @@ body {
 
   .index-service .service-show .service-box .text-show p {
     font-size: 12px;
-    color: #2B292D;
+    color: #2b292d;
     line-height: 18px;
   }
 }
@@ -26789,7 +26789,7 @@ body {
 
 .index-partner h3 {
   font-size: 38px;
-  color: #2B292D;
+  color: #2b292d;
   text-align: center;
   line-height: 38px;
   font-weight: bold;
@@ -26797,7 +26797,7 @@ body {
 
 .index-partner h4 {
   font-size: 14px;
-  color: #9B9B9B;
+  color: #9b9b9b;
   text-align: center;
   line-height: 14px;
   margin-top: 15px;
@@ -26805,7 +26805,7 @@ body {
 }
 
 .index-partner .img-box {
-  height: 61px;
+  height: 42px;
   margin-bottom: 40px;
   position: relative;
 }
@@ -26813,8 +26813,8 @@ body {
 .index-partner .img-box img {
   display: inline-block;
   position: absolute;
-  width: 160px;
-  height: 61px;
+  width: 100%;
+  height: 42px;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -26840,9 +26840,8 @@ body {
   }
 
   .index-partner .img-box {
-    height: 61px;
+    height: 42px;
     margin-bottom: 10px;
-    position: relative;
   }
 
   .index-partner .img-box img {
@@ -26866,7 +26865,7 @@ body {
 
 .index-client h3 {
   font-size: 38px;
-  color: #2B292D;
+  color: #2b292d;
   text-align: center;
   line-height: 38px;
   font-weight: bold;
@@ -26881,6 +26880,7 @@ body {
 .index-client .show-client .logo-box img {
   display: inline-block;
   position: absolute;
+  height: 100%;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -26890,7 +26890,7 @@ body {
 .index-client h4 {
   margin-top: 75px;
   font-size: 24px;
-  color: #3142C6;
+  color: #3142c6;
   text-align: center;
   font-weight: bold;
   line-height: 30px;
@@ -26909,7 +26909,7 @@ body {
   font-size: 18px;
   width: 750px;
   margin: 0 auto;
-  color: #2B292D;
+  color: #2b292d;
   text-align: center;
   line-height: 34px;
   margin-top: 40px;
@@ -26918,7 +26918,7 @@ body {
 
 .index-client .client-slide .client-slide-box h5 {
   font-size: 16px;
-  color: #2B292D;
+  color: #2b292d;
   line-height: 24px;
   text-align: center;
 }
@@ -26988,7 +26988,7 @@ body {
 
 .index-experience h3 {
   font-size: 56px;
-  color: #2B292D;
+  color: #2b292d;
   text-align: center;
   line-height: 56px;
   font-weight: bold;
@@ -26996,7 +26996,7 @@ body {
 
 .index-experience p {
   font-size: 24px;
-  color: #2B292D;
+  color: #2b292d;
   text-align: center;
   line-height: 34px;
 }
@@ -27012,7 +27012,7 @@ body {
 }
 
 .index-experience .sub a {
-  background: #1B2433;
+  background: #1b2433;
   display: block;
   width: 245px;
   margin: 0 auto;
@@ -27024,7 +27024,7 @@ body {
           box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 4px 6px 0 rgba(0, 0, 0, 0.05), inset 0 1px 0 0 rgba(255, 255, 255, 0.1);
   border-radius: 2px;
   font-size: 18px;
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: center;
 }
 
@@ -27066,7 +27066,7 @@ body {
 }
 
 .index-download {
-  background-color: #F4F5F7;
+  background-color: #f4f5f7;
   height: 350px;
 }
 
@@ -27104,7 +27104,7 @@ body {
 
 .index-download .show-bg .text-show .text-all h3 {
   font-size: 50px;
-  color: #2B292D;
+  color: #2b292d;
   line-height: 50px;
   margin-bottom: 25px;
   font-weight: bold;
@@ -27112,7 +27112,7 @@ body {
 
 .index-download .show-bg .text-show .text-all h4 {
   font-size: 24px;
-  color: #2B292D;
+  color: #2b292d;
   line-height: 24px;
 }
 
@@ -27219,7 +27219,7 @@ body {
 
 .all-footer .footer-top .footer-show .show-list .show-item p {
   font-size: 22px;
-  color: #2B292D;
+  color: #2b292d;
   letter-spacing: 0;
   line-height: 28px;
   margin-bottom: 20px;
@@ -27348,7 +27348,7 @@ body {
   float: left;
   width: 100px;
   height: 5px;
-  background-color: #1B2433;
+  background-color: #1b2433;
   margin-top: 7px;
 }
 
@@ -27359,13 +27359,13 @@ body {
 
 .main-detail .show-jobs .job-mail p {
   font-size: 16px;
-  color: #2B292D;
+  color: #2b292d;
   line-height: 16px;
 }
 
 .main-detail .show-jobs h3 {
   font-size: 38px;
-  color: #2B292D;
+  color: #2b292d;
   letter-spacing: -0.34px;
   line-height: 38px;
   font-weight: bold;
@@ -27376,13 +27376,13 @@ body {
 .main-detail .show-jobs h4 {
   font-size: 18px;
   line-height: 24px;
-  color: #2B292D;
+  color: #2b292d;
   font-weight: bold;
 }
 
 .main-detail .show-jobs h5 {
   font-size: 14px;
-  color: #2B292D;
+  color: #2b292d;
   line-height: 28px;
   font-weight: bold;
 }
@@ -27390,7 +27390,7 @@ body {
 .main-detail .show-jobs p {
   font-size: 14px;
   line-height: 28px;
-  color: #9B9B9B;
+  color: #9b9b9b;
 }
 
 .main-detail .show-jobs .mart-30 {
@@ -27404,7 +27404,7 @@ body {
 
 .main-detail .show-about .about-head p {
   font-size: 16px;
-  color: #2B292D;
+  color: #2b292d;
   letter-spacing: 0;
   line-height: 16px;
   margin-top: 0px;
@@ -27412,7 +27412,7 @@ body {
 
 .main-detail .show-about h3 {
   font-size: 38px;
-  color: #2B292D;
+  color: #2b292d;
   line-height: 38px;
   font-weight: bold;
   margin-top: 30px;
@@ -27421,7 +27421,7 @@ body {
 .main-detail .show-about p {
   font-size: 16px;
   width: 910px;
-  color: #2B292D;
+  color: #2b292d;
   text-align: justify;
   line-height: 24px;
   margin-top: 30px;
@@ -27434,14 +27434,14 @@ body {
 
 .main-detail .show-out .out-all .out-head p {
   font-size: 16px;
-  color: #2B292D;
+  color: #2b292d;
   letter-spacing: 0;
   line-height: 16px;
 }
 
 .main-detail .show-out .out-all h3 {
   font-size: 38px;
-  color: #2B292D;
+  color: #2b292d;
   letter-spacing: -0.34px;
   line-height: 38px;
   font-weight: bold;
@@ -27476,14 +27476,14 @@ body {
 .main-detail .show-out .out-all .out-list .out-box .box-right h4 {
   font-size: 16px;
   line-height: 24px;
-  color: #2B292D;
+  color: #2b292d;
   font-weight: bold;
 }
 
 .main-detail .show-out .out-all .out-list .out-box .box-right p {
   font-size: 16px;
   line-height: 24px;
-  color: #2B292D;
+  color: #2b292d;
 }
 
 .main-detail .show-out .out-all .out-list .out-box .box-right p.show-mid {
@@ -27499,7 +27499,7 @@ body {
   .main-detail .left-line {
     width: 40px;
     height: 2px;
-    background-color: #1B2433;
+    background-color: #1b2433;
     margin-top: 0px;
   }
 

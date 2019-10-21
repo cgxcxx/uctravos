@@ -116,7 +116,7 @@ class GuestsController extends Controller
     {
         $form = new Form(new Guest);
 
-        $form->image('image', 'Image');
+        $form->image('image', 'Image')->uniqueName();
 
         return $form;
     }

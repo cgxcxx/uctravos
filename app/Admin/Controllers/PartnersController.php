@@ -119,7 +119,7 @@ class PartnersController extends Controller
         $form = new Form(new Partner);
 
         $form->text('title', '伙伴图片');
-        $form->image('image', '伙伴商标')->rules('required|image');
+        $form->image('image', '伙伴商标')->rules('required|image')->uniqueName();;
 
         return $form;
     }

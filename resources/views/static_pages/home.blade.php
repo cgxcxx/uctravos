@@ -285,7 +285,7 @@
                 @foreach($partners as $partner)
                   <div class="col-md-2 col-xs-6">
                       <div class="img-box">
-                          <img src="{{ $partner->image }}" alt="">
+                          <img src="/storage/{{ $partner->image }}" alt="">
                       </div>
                   </div>
                 @endforeach
@@ -301,7 +301,7 @@
               @foreach($guests as $guest)
                 <div class="col-md-2 col-xs-6">
                   <div class="logo-box">
-                      <img src="{{ $guest->image }}" alt="">
+                      <img src="/storage/{{ $guest->image }}" alt="">
                   </div>
                 </div>
               @endforeach
